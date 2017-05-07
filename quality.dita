@@ -2,8 +2,28 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_snd_4bp_tz">
  <title>Quality of Technical Writing</title>
- <shortdesc></shortdesc>
+ <shortdesc>This section will review the quality of the writing based on the guidelines described in <cite>Developing Quality Technical Information</cite> by Carey et al.</shortdesc>
  <conbody>
-  <p></p>
+  <section>
+   <title>Usability</title>
+    <p>The three guidelines that dictate effective usability are task orientation, accuracy, and completeness.</p>
+    <p>In terms of task orientation,</p>
+    <p>In terms of accuracy, </p>
+    <p>In terms of completeness, </p>
+  </section>
+  <section>
+   <title>Understanding</title>
+   <p>The three guidelines that primarily deal with effective understanding are clarity, accuracy, and completeness</p>
+   <p>Clarity</p>
+   <p>Concreteness</p>
+   <p>Style</p>
+  </section>
+  <section>
+   <title>Navigation</title>
+   <p></p>
+   <p>Organization</p>
+   <p>Retrievabiltiy</p>
+   <p>Visual effectiveness</p>
+  </section>
  </conbody>
 </concept>
