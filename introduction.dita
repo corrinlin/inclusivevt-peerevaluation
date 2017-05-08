@@ -2,8 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="intro">
  <title>Introduction</title>
- <shortdesc>This section is an introduction to our evaluation of the group who wrote about internships at Virginia Tech. </shortdesc>
+ <shortdesc>This section is an introduction to our evaluation of the group from Creating User Documentation who wrote about internships at Virginia Tech. </shortdesc>
  <conbody>
-  <p>Our group is in charge of peer editing the internship group. We have been tasked with checking their project for issues related to the topics discussed in Developing Quality Technical Information and general usability.</p>
+  <p>Our Creating User Documentation class was assigned to complete a group project, using DITA and Markdown, that would help users at Virginia Tech. Now that the projects are done, we have been assigned to do a peer evaluation.</p>
+   <p>Our group is in charge of reviewing a group who wrote about internships. We have been tasked with checking their project for issues related to the topics discussed in Developing Quality Technical Information and general usability.</p>
+  <p>Throughout our evaluation, you will find our assessments of successes of the internship group and things that could have been done more effectively. You will also see notes related to more specific points, such as clarity, concreteness, style, navigation, and others.</p>
  </conbody>
 </concept>
