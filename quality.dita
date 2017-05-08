@@ -9,13 +9,19 @@
    <title>Usability</title>
    <p>The three guidelines that dictate effective usability are task orientation, accuracy, and
     completeness.</p>
-   <p>Task orientation involves writing content that caters to the user's goals. I can see that
-    there are step-by-step instructions on how to find internships both for college credit and how
-    to ensure I recieve compensation if there is no course credit awarded.</p>
-   <p>In terms of accuracy, </p>
-   <p>Completeness ensures that there is enough detail covered so that the user does not have to go
-    back to the directions. To me, it seemed that the information is complete and that I wouldn't
-    need to go bck for additional information.</p>
+   <ol>
+   <li>Task orientation involves writing content that caters to the user's goals. There are
+    step-by-step instructions on how to find internships both for college credit and how to ensure
+    compensation is received if there is no course credit awarded.</li>
+   <li>The accuracy guideline dictates that the information should not only cater to the user's
+    needs, but also be accurate. Something notable is that this WebHelp is specifically for English
+    majors seeking internship, but it does not explicitly state this anywhere on the site, it is
+    merely implied. Internship requirements, procedures, and advisors are different for other
+    departments. The site should either indicate that these internships are specific to the English
+    Department or include information for other departments.</li>
+   <li>Completeness ensures that there is enough detail covered so that the user does not have to go
+    back to the directions. On the eligibility page, there is a line that prompts the user to click to an external link, but that is a broken link.</li>
+   </ol>
   </section>
   <section>
    <title>Understanding</title>
