@@ -2,25 +2,33 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_snd_4bp_tz">
  <title>Quality of Technical Writing</title>
- <shortdesc>This section will review the quality of the writing based on the guidelines described in <cite>Developing Quality Technical Information</cite> by Carey et al.</shortdesc>
+ <shortdesc>This section will review the quality of the writing based on the guidelines described in
+   <cite>Developing Quality Technical Information</cite> by Carey et al.</shortdesc>
  <conbody>
   <section>
    <title>Usability</title>
-    <p>The three guidelines that dictate effective usability are task orientation, accuracy, and completeness.</p>
-    <p>In terms of task orientation,</p>
-    <p>In terms of accuracy, </p>
-    <p>In terms of completeness, </p>
+   <p>The three guidelines that dictate effective usability are task orientation, accuracy, and
+    completeness.</p>
+   <p>Task orientation involves writing content that caters to the user's goals. I can see that
+    there are step-by-step instructions on how to find internships both for college credit and how
+    to ensure I recieve compensation if there is no course credit awarded.</p>
+   <p>In terms of accuracy, </p>
+   <p>Completeness ensures that there is enough detail covered so that the user does not have to go
+    back to the directions. To me, it seemed that the information is complete and that I wouldn't
+    need to go bck for additional information.</p>
   </section>
   <section>
    <title>Understanding</title>
-   <p>The three guidelines that primarily deal with effective understanding are clarity, accuracy, and completeness</p>
+   <p>The three guidelines that primarily deal with effective understanding are clarity,
+    concreteness, and style.</p>
    <p>Clarity</p>
    <p>Concreteness</p>
    <p>Style</p>
   </section>
   <section>
    <title>Navigation</title>
-   <p></p>
+   <p>Navigation is the user's ability to easily find what they are looking for. This can be split
+    into three guidelines as well: organization, retrievability, and visual effectiveness. </p>
    <p>Organization</p>
    <p>Retrievabiltiy</p>
    <p>Visual effectiveness</p>
