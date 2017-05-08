@@ -10,43 +10,57 @@
    <p>The three guidelines that dictate effective usability are task orientation, accuracy, and
     completeness.</p>
    <ol>
-   <li>Task orientation involves writing content that caters to the user's goals. There are
-    step-by-step instructions on how to find internships both for college credit and how to ensure
-    compensation is received if there is no course credit awarded.</li>
-   <li>The accuracy guideline dictates that the information should not only cater to the user's
-    needs, but also be accurate. Something notable is that this WebHelp is specifically for English
-    majors seeking internship, but it does not explicitly state this anywhere on the site, it is
-    merely implied. Internship requirements, procedures, and advisors are different for other
-    departments. The site should either indicate that these internships are specific to the English
-    Department or include information for other departments.</li>
-   <li>Completeness ensures that there is enough detail covered so that the user does not have to go
-    back to the directions. On the eligibility page, there is a line that prompts the user to click to an external link, but that is a broken link.</li>
+    <li>Task orientation involves writing content that caters to the user's goals. The WebHelp
+     follows this guideline very well as there are step-by-step instructions on most of the pages,
+     where applicable.</li>
+    <li>The accuracy guideline dictates that the information should not only cater to the user's
+     needs, but also be accurate. Something notable is that this WebHelp is specifically for English
+     majors seeking internship, but it does not explicitly state this anywhere on the site, it is
+     merely implied. Internship requirements, procedures, and advisors are different for other
+     departments. The site should either indicate on the welcome page that these internships are
+     specific to the English Department or include information for other departments.</li>
+    <li>Completeness ensures that there is enough detail covered so that the user does not have to
+     go back to the directions. On the Eligibility page, there is a line that prompts the user to
+     click to an external link, but that is a broken link. Additionally, there isn't very much
+     information on most of the pages under the "Get Started" menu.</li>
    </ol>
   </section>
   <section>
    <title>Understanding</title>
    <p>The three guidelines that primarily deal with effective understanding are clarity,
     concreteness, and style.</p>
-   <p>Clarity is making sure that the information is clear to the users. The information on this
-    website is very clear, and most college students will be able to understand the information
-    being presented.</p>
-   <p>Concreteness refers to being specific and definitc. The information in the website follows
-    this guideline very well as it very specific to college students at Virginia Tech, and helping
-    them find an internship.</p>
-   <p>Style</p>
+   <ol>
+    <li>Clarity is making sure that the information is clear to the users. The information on this
+     website is very clear, and most college students will be able to understand the information
+     being presented.</li>
+    <li>Concreteness refers to being specific and definitc. The information in the website follows
+     this guideline very well as it very specific to college students at Virginia Tech and helping
+     them find an internship.</li>
+    <li>Style includes the writing style and convenetions such as active vs. passive use,
+     capitalization, punctuation, etc. For the most part, the website follows this guideline, but
+     sometimes switches between second and third person (see "How to Consult Your Advisor" and "Internships for Credit" pages).</li>
+   </ol>
   </section>
   <section>
    <title>Navigation</title>
    <p>Navigation is the user's ability to easily find what they are looking for. This can be split
     into three guidelines as well: organization, retrievability, and visual effectiveness. </p>
-   <p>Organization refers to how the information is presented in the website. The information is
-    very well organized, as the topics are sorted into various categories that make sense for the
-    user, yet do not overwhelm them.</p>
-   <p>Retrievabiltiy is how easily the user can go from one topic to another and back, without
-    getting lost. The website ranks very highly in retrievability, as there is a sidebar as well as
-    the drop-down menu on every page allowing users to move from page to page without getting
-    lost.</p>
-   <p>Visual effectiveness </p>
+   <ol>
+    <li>Organization refers to how the information is presented in the website. The information is
+     very well organized, as the topics are sorted into various categories that make sense for the
+     user, yet do not overwhelm them.</li>
+    <li>Retrievabiltiy is how easily the user can go from one topic to another and back, without
+     getting lost. The website ranks very highly in retrievability, as there is a sidebar as well as
+     the drop-down menu on every page allowing users to move from page to page without getting
+     lost.</li>
+    <li>Visual effectiveness is a multi-faceted guideline that brings all the others together with a
+     goal of encouraging users to interact with the site. The WebHelp accomplishes this by having a
+     consistent design across all the pages. The navigation buttons are very clearly titled and
+     allow users to quickly find what they are looking for. The color scheme is also easy on the
+     eyes, enhancing accessbility for those who may have a visual impairment. All of the external
+     links that are properly linked are displayed in a different color so that it is obvious to the
+     user that it is a link.</li>
+   </ol>
   </section>
  </conbody>
 </concept>

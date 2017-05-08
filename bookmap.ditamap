@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Internships Evaluation Report</mainbooktitle>
+    </booktitle>
+        <bookmeta><author>InclusiveVT Team: Laura Schwartz, Corrin Lundquist, Stephen Newman, and Nick Michael</author>
+            <bookchangehistory><approved><completed><month>May</month><year>2017</year></completed></approved></bookchangehistory></bookmeta>
+        <frontmatter>
+            <booklists>
+                <toc/></booklists>
+            <preface>
+                <topicref></topicref></preface></frontmatter>
+            <chapter></chapter>
+        </frontmatter>
+
+</bookmap>
