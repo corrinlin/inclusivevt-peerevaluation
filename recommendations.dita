@@ -2,8 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_elk_fhk_vz">
     <title>Recommendations</title>
-    <shortdesc>Here are a few suggestions for making the WebHelp even better than it is
-        now!</shortdesc>
+    <shortdesc>Here are a few suggestions for making the WebHelp even better!</shortdesc>
     <taskbody>
         <context>
             <ul>
@@ -16,17 +15,17 @@
                     have a purpose behind it. There is nothing wrong with it, but there doesn't seem
                     to be a reason why these colors were used. This scheme does not work into the
                     theme of the site.</li>
-                <li>Fix the layout of the "Benefits of Internships" page- The layout here does not
-                    look good. The text is to the left of the picture and it appears like it was
-                    intended for it to be above, similar to a subheading. Fixing this will make the
+                <li>Fix the layout of the "Benefits of Internships" page- The layout here looks
+                    amiss. The text is to the left of the picture and it appears like the text was
+                    intended to be above, similar to a subheading. Fixing this will make the
                     page look much better.</li>
                 <li>Get a better title- Making the site titled simply "Internships" is not the best
                     option. If this was a real resource for students to go to to learn about this
                     subject, what would the name be? Try a more detailed and less general
                     title.</li>
-                <li>Site clarification- It is unknown whether the site is intended for only English
-                    students, as there are many things specific to English students, or for all
-                    students at Virginia Tech, because there are a lot of generalities as well.
+                <li>Site clarification- We weren't sure whether the site is intended for only
+                    English students, as there are many things specific to English students, or for
+                    all students at Virginia Tech, because there are a lot of generalities as well.
                     Making the site more specific can help students visiting the site determine if
                     they should stay on the site or look elsewhere. Naming the site "English Student
                     Internships" or something along those lines could cause less frustration amongst
