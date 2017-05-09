@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="task_elk_fhk_vz">
-    <title>Recommendations for your site</title>
-    <shortdesc>Here are a few suggestions for making your website even better than it is now!
+    <title>Recommendations</title>
+    <shortdesc>Here are a few suggestions for making the WebHelp even better than it is now!
         now.</shortdesc>
     <taskbody>
         <context>
-           <ul>
-               <li>Get a better nav bar- There are many different ways to have a navigation bar bring you to the different pages of your website. While there isn't anything wrong with yours (simply listing the topics horizontally) it is not the most aesthetically pleasing. I would suggest a more sophisticated organization with your nav bar. </li>
-               <li>Justify your color scheme- Why did you choose red and black with blue text? There is nothing wrong with it, but there doesn't seem to be a reason why you chose these colors. This scheme does not work into the theme of the site.</li>
-               <li>Fix the layout of the "Benefits of Internships" page- The layout here does not look good. The text is to the left of the picture and it appears that you probably intended for it to be above, like a subheading. Fixing this will make the page look much better.</li>
-               <li>Get a better title- I think making the site titled simply "Internships" isn't your best option. If this was a real resource for students to go to to learn about this subject, what would you name it? Try a more detailed and less general title.</li>
-           </ul>
-            <p>This is a good site, but if you take these recommendations into consideration, it could go from good to great!</p>
+            <ul>
+                <li>Navigation Bar There are many different ways to have a navigation bar
+                    bring you to the different pages of your website. While there isn't anything
+                    wrong with simply listing the topics horizontally, it is not the most
+                    aesthetically pleasing because of the number of topics. A more user-friendly navigation bar could </li>
+                <li>Justify your color scheme- Why did you choose red and black with blue text?
+                    There is nothing wrong with it, but there doesn't seem to be a reason why you
+                    chose these colors. This scheme does not work into the theme of the site.</li>
+                <li>Fix the layout of the "Benefits of Internships" page- The layout here does not
+                    look good. The text is to the left of the picture and it appears that you
+                    probably intended for it to be above, like a subheading. Fixing this will make
+                    the page look much better.</li>
+                <li>Get a better title- I think making the site titled simply "Internships" isn't
+                    your best option. If this was a real resource for students to go to to learn
+                    about this subject, what would you name it? Try a more detailed and less general
+                    title.</li>
+            </ul>
+            <p>This is a good site, but if you take these recommendations into consideration, it
+                could go from good to great!</p>
         </context>
-        
+
     </taskbody>
 </task>

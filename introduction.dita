@@ -2,12 +2,23 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="intro">
  <title>Introduction</title>
- <shortdesc>This section is an introduction to our evaluation of the group from Creating User Documentation who wrote about internships at Virginia Tech. </shortdesc>
+ <shortdesc>This section is an introduction to our evaluation of the group from Creating User
+  Documentation who wrote about internships at Virginia Tech. </shortdesc>
  <conbody>
-  <p>Our Creating User Documentation class was assigned to complete a group project, using DITA and Markdown, that would help users at Virginia Tech. Now that the projects are done, we have been assigned to do a peer evaluation.</p>
-   <p>Our group is in charge of reviewing a group who wrote about internships. We have been tasked with checking their project for issues related to the topics discussed in Developing Quality Technical Information and general usability.</p>
-  <p>Throughout our evaluation, you will find our assessments of successes of the internship group and things that could have been done more effectively. You will also see notes related to more specific points, such as clarity, concreteness, style, navigation, and others.</p>
-  <p>We will start with the quality evaluation based on DQTI, with specific principles defined and measured in the context of this site. Then we will assess the usability, before finally providing recommendations for improvement. </p>
+  <p>Our Creating User Documentation class was split into four groups and each was assigned to
+   complete a group project using DITA and Markdown, that would help users at Virginia Tech to
+   complete a task. Now that the projects are done, we have each been assigned to do a peer
+   evaluation of another group's project.</p>
+  <p>Our group has been tasked with reviewing the group who wrote about internships. We have been
+   tasked with checking their project for issues related to the topics discussed in the book,
+    <cite>Developing Quality Technical Information</cite> (DQTI) by Carey et al., and general
+   usability.</p>
+  <p>Throughout our evaluation, you will find our assessments of successes of the internship group
+   and things that could have been done more effectively. You will also see notes related to more
+   specific points, such as clarity, concreteness, style, navigation, and others.</p>
+  <p>We will start with the quality evaluation based on DQTI, with specific principles defined and
+   measured in the context of this site. Then we will assess the usability before finally providing
+   recommendations for improvement. </p>
   <p>With that, let's jump right in!</p>
  </conbody>
 </concept>
