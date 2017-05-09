@@ -8,10 +8,15 @@
             <bookchangehistory><approved><completed><month>May</month><year>2017</year></completed></approved></bookchangehistory></bookmeta>
         <frontmatter>
             <booklists>
-                <toc/></booklists>
-            <preface>
-                <topicref></topicref></preface></frontmatter>
-            <chapter></chapter>
+                <toc/>
+            </booklists>
+            <preface href="summary.dita"></preface>
         </frontmatter>
+        <chapter href="introduction.dita"></chapter>
+        <chapter href="quality.dita"></chapter>
+        <chapter href="usability.dita"></chapter>
+        <chapter href="recommendations.dita"></chapter>
+        <chapter href="conclusion.dita"></chapter>
+
 
 </bookmap>
